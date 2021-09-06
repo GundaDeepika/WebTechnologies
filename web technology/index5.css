@@ -1,0 +1,14 @@
+.menu li{
+    list-style: none;
+height: 50px;
+width:300px;
+background-color: black;
+text-align: center;
+/*margin: 1px;*/
+line-height: 50px;
+float:left;
+}
+.menu li a{
+color: chartreuse;
+text-decoration: none;
+}
